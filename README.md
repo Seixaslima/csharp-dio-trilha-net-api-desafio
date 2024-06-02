@@ -57,3 +57,4 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 - Metodo POST finalizado
 - Metodos GET finalizados
+- Metodo PUT finalizado
